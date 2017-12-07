@@ -24,6 +24,17 @@ class Tortoise(Animal):
         print('Tortoise is running slowly')
 print(run_twice(Tortoise()))
 
+
+class Husky(Dog):
+     pass
+
+
+a = Animal()
+d = Dog()
+h = Husky()
+print('isinstance(h,Husky)',isinstance(h,Husky))
+print('isinstance(h,Dog)',isinstance(h,Dog))
+
 # 小结
 #
 # 继承可以把父类的所有功能都直接拿过来，这样就不必重零做起，子类只需要新增自己特有的方法，也可以把父类不适合的方法覆盖重写。

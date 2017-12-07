@@ -32,6 +32,9 @@ print(bart.name)
 print(bart.print_score())
 print(bart.get_grade())
 
+print('bart-name', hasattr(bart, 'name'))
+print('hasattr-score', hasattr(bart, 'score'))
+
 
 # 小结：类是创建实例的模板，而实例则是一个一个
 # 具体的对象，各个实例拥有的数据都互相独立，互不影响
