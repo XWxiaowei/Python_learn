@@ -1,4 +1,4 @@
 ## Python3 实战
 ### 搭建一个webApp程序
-- 学习到
-https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014323389656575142d0bcfeec434e9639a80d3684a7da000
+- 20171229学习到
+https://github.com/michaelliao/awesome-python3-webapp/blob/day-03/www/orm.py
